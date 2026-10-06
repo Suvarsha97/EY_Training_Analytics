@@ -1,2 +1,2 @@
 # EY_Training_Analytics
-This branch contains scripts of EY_training_analytics.
+This is a group project focused on analyzing training-related data.
